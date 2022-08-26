@@ -1,0 +1,61 @@
+
+
+ Weight Converted History
+--------------------------
+Input: 50  Kilogram (kg)
+Output: 110.231  Pound (lb)
+Date/Time: 2022-04-13   16:35:54
+
+ Weight Converted History
+--------------------------
+Input: 10  Kilogram (kg)
+Output: 10000.0  Gram (g)
+Date/Time: 2022-04-13   17:00:28
+
+ Height Converted History
+--------------------------
+Input: 5  Meter (m)
+Output: 196.85  Inch (in)
+Date/Time: 2022-04-13   17:01:48
+
+ Weight Converted History
+--------------------------
+Input: 100  Gram (g)
+Output: 3.5273  Ounce (oz)
+Date/Time: 2022-04-13   17:07:10
+
+ Weight Converted History
+--------------------------
+Input:   Gram (g)
+Output: 555  Kilogram (kg)
+Date/Time: 2022-04-13   17:08:31
+
+ Weight Converted History
+--------------------------
+Input: 50  Kilogram (kg)
+Output: 50000.0  Gram (g)
+Date/Time: 2022-05-13   18:10:18
+
+ Height Converted History
+--------------------------
+Input: 7  Foot (ft)
+Output: 213.36  Centimeter (cm)
+Date/Time: 2022-05-13   18:11:27
+
+ Weight Converted History
+--------------------------
+Input:   Gram (g)
+Output: 123  Gram (g)
+Date/Time: 2022-06-07   18:36:18
+
+ Weight Converted History
+--------------------------
+Input: 10  Kilogram (kg)
+Output: 10000.0  Gram (g)
+Date/Time: 2022-06-07   19:50:03
+
+ Height Converted History
+--------------------------
+Input: 10  Meter (m)
+Output: 1000.0  Centimeter (cm)
+Date/Time: 2022-06-07   19:50:49
